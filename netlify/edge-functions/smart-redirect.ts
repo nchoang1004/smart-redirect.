@@ -17,7 +17,7 @@ export default async (request: Request) => {
 <html lang="vi">
 <head>
 <meta charset="utf-8">
-<title>🔥 Deal Shopee - Sốc tận nóc!</title>
+<title>🔥 TIN HOT MOI NHAT!</title>
 <link rel="canonical" href="${origin}">
 <meta property="og:type" content="article">
 <meta property="og:title" content="🔥 Deal Shopee - Sốc tận nóc!">
