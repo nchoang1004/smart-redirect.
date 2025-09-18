@@ -20,7 +20,7 @@ export default async (request: Request) => {
 <title>🔥 TIN HOT MOI NHAT!</title>
 <link rel="canonical" href="${origin}">
 <meta property="og:type" content="article">
-<meta property="og:title" content="🔥 Deal Shopee - Sốc tận nóc!">
+<meta property="og:title" content="🔥 Tin nóng hôm nay!">
 <meta property="og:description" content="Săn hàng hời số lượng có hạn, click ngay để không bỏ lỡ.">
 <meta property="og:image" content="${origin}thumb.jpg?v=1">
 <meta property="og:url" content="${origin}">
